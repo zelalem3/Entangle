@@ -1,0 +1,13 @@
+# Environments & Secrets
+.env
+*.env
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
+dist/
+.chunks/
+
+# System files
+.DS_Store
